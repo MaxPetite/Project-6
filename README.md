@@ -2,19 +2,20 @@
 
 ### Name
 
-_Write your name here_
+Max Petite
 
 ### Introspection
 
-_Describe the challenges you faced and what you learned_
+challenges getting used to working with machine learning libraries
 
 ### Dataset
 
-_Which dataset did you choose for the classification task?_
+https://zenodo.org/records/4561253/files/WELFake_Dataset.csv
+or
+https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification
 
 ### Resources
-
-_List the people and resources you used to complete the project_
+(https://scikit-learn.org/1.5/modules/generated/sklearn.linear_model.LinearRegression.html)
 
 
 ### *DO NOT EDIT BELOW THIS LINE*
